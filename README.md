@@ -14,7 +14,7 @@
 
 ## 📌 About Me
 - I'm a CSE student from Bangladesh.
-- Currently learning Java.
+- Currently learning DS.
 
 
 ## 📊 GitHub Stats & Trophies
