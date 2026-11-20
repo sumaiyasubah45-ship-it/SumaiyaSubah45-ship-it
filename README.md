@@ -1,20 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sumaiya%20Subah&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Meri%20beti%20engineer%20banegi" alt="Typing introduction" />
-</p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=sumaiyasubah45-ship-it">
-    <img src="https://komarev.com/ghpvc/?username=sumaiyasubah45-ship-it&label=Profile%20views&color=00FFFF&style=flat-square" alt="sumaiyasubah45-ship-it's profile views" />
-  </a>
-</p>
+
+
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFxOWRpMzh1cG9ycnQ2cHBsYTNvbXcwc3Q3eXlzNTB3cnNteTltOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KmXKSyoulpBXuu2Cx2/giphy.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I'm a CSE student from Bangladesh.
-- Currently learning DS.
+- Currently exploring new areas of CSE.
 
 
 ## 📊 GitHub Stats & Trophies
@@ -36,7 +29,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
+ </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyasubah45-ship-it&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
